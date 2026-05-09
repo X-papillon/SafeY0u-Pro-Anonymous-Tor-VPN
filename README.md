@@ -1,7 +1,7 @@
 # <img src="https://images2.imgbox.com/3b/44/eB4BgqXZ_o.png" width="50"/> SafeY0u Pro - Anonymous Tor VPN
 ### Desktop Application for Anonymous Browsing & Privacy Protection
 
-![Version](https://img.shields.io/badge/version-2.0-blue)
+![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-green)
 ![.NET](https://img.shields.io/badge/.NET-4.8%2B-purple)
 ![Status](https://img.shields.io/badge/status-Active-success)
