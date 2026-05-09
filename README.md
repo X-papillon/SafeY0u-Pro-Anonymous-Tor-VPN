@@ -184,10 +184,13 @@ If you find this project useful:
 - 🛠 Contribute improvements  
 
 ---
-## 📸 Tutorail
+## 📸 Demo video
 
 <p>
- ![demo video](https://images2.imgbox.com/ea/20/25dzXO0e_o.gif)
+
+<img width="1152" height="720" alt="safeyou" src="https://github.com/user-attachments/assets/f8abc4a8-b8f2-4e6a-bbd8-65775c7c8630" />
+
+
 </p>
 
 ---
