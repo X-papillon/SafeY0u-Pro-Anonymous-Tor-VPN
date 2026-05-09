@@ -187,7 +187,7 @@ If you find this project useful:
 ## 📸 Tutorail
 
 <p>
-  <img src="https://images2.imgbox.com/ea/20/25dzXO0e_o.gif" width="720"/>
+ ![demo video](https://images2.imgbox.com/ea/20/25dzXO0e_o.gif)
 </p>
 
 ---
