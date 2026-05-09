@@ -138,6 +138,8 @@ warranties, express or implied.
 YOU ACCEPT FULL RESPONSIBILITY FOR YOUR ACTIONS.
 USE RESPONSIBLY AND LEGALLY.
 
+---
+
 ## ❓ Frequently Asked Questions
 
 **Q: Is SafeY0u Pro completely free?**
@@ -157,6 +159,8 @@ A: In `%AppData%\safeyoutor\tor.exe` (hidden file)
 
 **Q: How often does Tor IP change?**
 A: Approximately every 10 minutes or when requested.
+
+---
 
 ## Requirements
 
@@ -183,7 +187,7 @@ If you find this project useful:
 ## 📸 Tutorail
 
 <p>
-  <img src="https://images2.imgbox.com/ea/20/25dzXO0e_o.gif" width="400"/>
+  <img src="https://images2.imgbox.com/ea/20/25dzXO0e_o.gif" width="720"/>
 </p>
 
 ---
