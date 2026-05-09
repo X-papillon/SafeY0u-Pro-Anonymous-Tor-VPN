@@ -76,7 +76,7 @@ Just anonymous browsing made simple.
 
 ### Setup
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/SafeY0u-Pro/releases) page
+1. Download the latest release from the [Releases](https://github.com/X-papillon/SafeY0u-Pro-Anonymous-Tor-VPN/releases/tag/Anonymous_Tor_VPN) page
 
 2. Extract the ZIP file to any folder
 
