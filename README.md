@@ -184,7 +184,7 @@ If you find this project useful:
 - 🛠 Contribute improvements  
 
 ---
-## 📸 Demo video
+## ▷ Demo video
 
 <p>
 
